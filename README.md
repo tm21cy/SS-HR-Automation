@@ -1,3 +1,5 @@
+# **This repository is deprecated. For more information please see [this](https://github.com/tm21cy/SS-HR-Automation/issues/18) issue.**
+
 # School Simplified Human Resources Automation Discord Bot
 
 ## About
